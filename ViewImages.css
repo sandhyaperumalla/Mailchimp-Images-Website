@@ -7,7 +7,7 @@ body {
     justify-content: center;
 }
 .title {
-    font-family: 'Cabin Sketch', cursive;
+    font-family:  'Averia Serif Libre', cursive;
     font-weight: bold;
     font-size: 34px;
     border-bottom: 3px solid #ea535399;
@@ -28,7 +28,6 @@ max-width: 20%;
 height: 10%;
 transition: all 1s;
 margin-top: 32px;
-
 }
 
 img:hover {
